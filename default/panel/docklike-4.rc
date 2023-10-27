@@ -1,0 +1,7 @@
+[user]
+virt-manager.desktop;
+middleButtonBehavior=1
+indicatorStyle=4
+inactiveIndicatorStyle=4
+showWindowCount=false
+showPreviews=true
