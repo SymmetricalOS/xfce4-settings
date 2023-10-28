@@ -1,4 +1,5 @@
 [user]
+pinned=/usr/share/applications/firefox.desktop;/usr/share/applications/thunar.desktop;/usr/share/applications/org.mozilla.Thunderbird.desktop;/usr/share/applications/org.manjaro.pamac.manager.desktop;
 virt-manager.desktop;
 middleButtonBehavior=1
 indicatorStyle=4
